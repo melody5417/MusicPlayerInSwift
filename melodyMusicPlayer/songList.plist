@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>songName</key>
+		<string>PingFanZhiLu</string>
+		<key>singer</key>
+		<string>PuShu</string>
+	</dict>
+	<dict>
+		<key>songName</key>
+		<string>XiaoQingGe</string>
+		<key>singer</key>
+		<string>HuQingFeng</string>
+	</dict>
+	<dict>
+		<key>songName</key>
+		<string>Little Hapiness</string>
+		<key>singer</key>
+		<string>TianFuZhen</string>
+	</dict>
+</array>
+</plist>
